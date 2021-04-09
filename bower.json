@@ -1,5 +1,5 @@
 {
-  "name": "gifshot_watermarks",
+  "name": "gifshot-watermarks",
   "homepage": "https://github.com/Sarpacki/gifshot",
   "description": "JavaScript library that can create animated GIFs from media streams, videos, or images",
   "main": "./dist/gifshot.js",
